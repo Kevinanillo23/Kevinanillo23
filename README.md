@@ -1,4 +1,4 @@
-# ¡Hola! Soy Kevin Anillo Coba 👋
+# ¡Hola! Soy Kevin Anillo Coba 
 
 Junior Full-Stack & Web3 Developer con mentalidad técnica y experiencia internacional. Me apasiona construir aplicaciones seguras, escalables y eficientes.
 
