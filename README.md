@@ -2,7 +2,7 @@
 
 Junior Full-Stack & Web3 Developer con mentalidad técnica y experiencia internacional. Me apasiona construir aplicaciones seguras, escalables y eficientes.
 
-### 🚀 Proyecto Destacado: Web3 AI Pro (2024-2025)
+### 🚀 Proyecto Destacado: Web 3 (2026)
 **Plataforma Full-Stack Educativa sobre Ecosistemas Cripto**
 * **Frontend:** Desarrollado con **React 19**, **TypeScript** y **Vite**.
 * **Backend & Seguridad:** API en Node.js con arquitectura **MVC**, autenticación **JWT**, encriptación **Bcrypt** y protección **Rate Limiting**.
